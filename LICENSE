@@ -2,7 +2,11 @@
 
 **PROPRIETARY LICENSE AGREEMENT**
 
-This project and all its associated files, including but not limited to source code, documentation, configuration files, design assets, databases, algorithms, and any derivative works, are **NOT LICENSED** for reuse, redistribution, modification, or replication under any permissive, open-source, or other license.
+Except for the limited rights granted under GitHub's Terms of Service to view and fork this repository on GitHub, all rights are reserved by FairArena. No additional license is granted.
+
+Nothing in this License limits any rights that GitHub's Terms of Service directly grant to other GitHub users with respect to this public repository.
+
+This project and all its associated files, including but not limited to source code, documentation, configuration files, design assets, databases, algorithms, and any derivative works, are the exclusive proprietary property of FairArena and are **NOT LICENSED** for reuse, redistribution, modification, or replication under any permissive, open-source, or other license.
 
 ---
 
@@ -16,62 +20,39 @@ This Software is the exclusive proprietary property of FairArena. Unauthorized c
 
 ## USAGE RESTRICTIONS
 
-By accessing, viewing, cloning, forking, or downloading this repository, you acknowledge and agree to the following restrictions:
+By using this Software, you acknowledge and agree to the following restrictions:
+
+### Permitted Actions on GitHub
+
+- **Viewing** the source code on GitHub as permitted by GitHub's Terms of Service.
+- **Forking** this repository on GitHub as permitted by GitHub's Terms of Service, solely for the purpose of submitting pull requests to this project.
+- **Reporting bugs** by opening GitHub issues in this repository.
+- **Suggesting features** through GitHub issues.
+- **Submitting contributions** via pull requests that will be merged into this repository (subject to Contribution Terms below).
 
 ### Prohibited Actions
 
 You are **EXPRESSLY PROHIBITED** from:
 
-1. **Copying, reproducing, or extracting** any portion of this project, in whole or in part, including but not limited to:
-   - Source code (any programming language)
-   - Documentation and comments
-   - Configuration files and environment setups
-   - Database schemas and migrations
-   - API designs and endpoints
-   - Algorithms, logic, and implementations
-   - UI/UX designs and components
-   - Asset files (images, icons, fonts, etc.)
+1. **Copying, reproducing, or extracting** substantial portions of this project, including but not limited to source code, documentation, algorithms, or implementations, for use outside of this repository.
 
-2. **Reusing or repurposing** any part of this project for your own projects, whether public, private, personal, educational, research-based, non-commercial, or commercial
+2. **Reusing or repurposing** any part of this project for your own projects, whether public, private, personal, educational, research-based, non-commercial, or commercial.
 
-3. **Creating derivative works**, modifications, or adaptations based on this project for use outside of contributing directly to this repository
+3. **Creating derivative works**, modifications, or adaptations based on this project for use outside of contributing directly to this repository.
 
-4. **Forking this repository** for any purpose other than submitting pull requests to this project. Forks must be deleted immediately upon:
-   - Merge or rejection of your pull request
-   - Abandonment of contribution efforts
-   - Request from FairArena maintainers
-   - 30 days from creation, whichever comes first
+4. **Distributing, publishing, or sharing** any content from this repository under your name, brand, organization, or any third-party name.
 
-5. **Distributing, publishing, or sharing** any content from this repository under your name, brand, organization, or any third-party name
+5. **Deploying, hosting, or operating** any instance of this Software on any infrastructure (local, cloud, server, or otherwise) except for the official FairArena deployment.
 
-6. **Deploying, hosting, or operating** any instance of this Software on any infrastructure (local, cloud, server, or otherwise) except for the official FairArena deployment
+6. **Reverse engineering, decompiling, or disassembling** the Software for the purpose of replication or creating competing products.
 
-7. **Reverse engineering, decompiling, or disassembling** the Software for the purpose of replication or creating competing products
+7. **Incorporating, embedding, or linking** substantial portions of this Software into other projects, applications, libraries, or frameworks.
 
-8. **Using this code as reference** to build similar, competing, or derivative applications or services
+8. **Selling, sublicensing, renting, leasing, or transferring** any rights to this Software.
 
-9. **Incorporating, embedding, or linking** any part of this Software into other projects, applications, libraries, or frameworks
+9. **Removing, altering, or obscuring** any copyright notices, proprietary legends, or license terms, including deleting this LICENSE file, which is strictly prohibited.
 
-10. **Selling, sublicensing, renting, leasing, or transferring** any rights to this Software
-
-11. **Removing, altering, or obscuring** any copyright notices, proprietary legends, or license terms
-
-12. **Training machine learning models** or using this code for AI/LLM training datasets without explicit written permission
-
-13. **Scraping, archiving, or storing** permanent copies of this repository outside of GitHub's infrastructure
-
-14. **Teaching, presenting, or demonstrating** this codebase in educational settings, tutorials, courses, or conferences without express permission
-
-15. **Benchmarking or comparing** this Software publicly against competing products for commercial purposes
-
-### Permitted Actions
-
-The **ONLY** permitted actions are:
-
-- **Viewing** the source code for personal reference on GitHub only
-- **Reporting bugs** by opening GitHub issues in this repository
-- **Suggesting features** through GitHub issues
-- **Submitting contributions** via pull requests that will be merged into this repository (subject to Contribution Terms below)
+10. **Training machine learning models** or using this code for AI/LLM training datasets without explicit written permission.
 
 **Any use not explicitly permitted above is PROHIBITED.**
 
@@ -81,35 +62,23 @@ The **ONLY** permitted actions are:
 
 ### Grant of Rights
 
-By submitting any contribution to this project (including but not limited to pull requests, issues, bug reports, code suggestions, documentation, comments, or any other form of input), you **IRREVOCABLY AND UNCONDITIONALLY**:
+By submitting any contribution to this project (including but not limited to pull requests, issues, bug reports, code suggestions, documentation, comments, or any other form of input), you:
 
-1. **Transfer all rights, title, and interest** in your contribution to FairArena, including all intellectual property rights, copyrights, patent rights, and moral rights
+1. **Transfer all rights, title, and interest** in your contribution to FairArena, including all intellectual property rights, copyrights, and moral rights.
 
-2. **Grant FairArena** perpetual, worldwide, exclusive, royalty-free, transferable rights to use, modify, distribute, sublicense, or delete your contribution within this project
+2. **Grant FairArena** perpetual, worldwide, exclusive, royalty-free, transferable rights to use, modify, distribute, sublicense, or delete your contribution within this project.
 
-3. **Waive all moral rights** to attribution, integrity, and disclosure with respect to your contribution
+3. **Waive all moral rights** to attribution, integrity, and disclosure with respect to your contribution.
 
-4. **Agree** that your contribution becomes proprietary property of FairArena and is subject to the same restrictive terms as the rest of the Software
+4. **Agree** that your contribution becomes proprietary property of FairArena and is subject to the same restrictive terms as the rest of the Software.
 
-5. **Acknowledge** that you have NO rights to reuse, repurpose, or redistribute your contribution in any other project or context
+5. **Certify** that:
+   - Your contribution is your original work.
+   - You have the legal authority to transfer these rights.
+   - Your contribution does not violate any third-party intellectual property rights.
+   - You have not previously licensed your contribution under incompatible terms.
 
-6. **Certify** that:
-   - Your contribution is your original work
-   - You have the legal authority to transfer these rights
-   - Your contribution does not violate any third-party intellectual property rights
-   - You have not previously licensed your contribution under incompatible terms
-
-7. **Accept** that FairArena may, at its sole discretion:
-   - Accept, reject, modify, or remove your contribution without notice or compensation
-   - Close or ignore your issues or pull requests
-   - Ban you from contributing for any reason
-
-### Fork Deletion Requirement
-
-If you fork this repository to submit a contribution:
-- You MUST delete your fork within **7 days** of your pull request being merged or closed
-- Failure to delete your fork will be considered a violation of this license
-- FairArena reserves the right to request GitHub to remove non-compliant forks
+6. **Accept** that FairArena may, at its sole discretion, accept, reject, modify, or remove your contribution without notice or compensation.
 
 ### No Compensation
 
@@ -119,13 +88,7 @@ You acknowledge that you will receive NO compensation, credit, or consideration 
 
 ## INTELLECTUAL PROPERTY OWNERSHIP
 
-FairArena retains complete and exclusive ownership of all intellectual property rights in and to the Software, including but not limited to:
-
-- Copyrights and moral rights
-- Patent rights and trade secrets
-- Trademarks, service marks, and trade names
-- Database rights and sui generis rights
-- Any and all other intellectual property rights
+FairArena retains complete and exclusive ownership of all intellectual property rights in and to the Software, including but not limited to copyrights, patent rights, trade secrets, trademarks, and any other intellectual property rights.
 
 No transfer of ownership or license is granted by making the source code available.
 
@@ -135,11 +98,7 @@ No transfer of ownership or license is granted by making the source code availab
 
 THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, TITLE, QUIET ENJOYMENT, OR ACCURACY.
 
-FAIRARENA MAKES NO REPRESENTATIONS OR WARRANTIES REGARDING:
-- The functionality, reliability, or availability of the Software
-- The security or privacy of data processed by the Software
-- The absence of bugs, errors, or vulnerabilities
-- Compatibility with any systems or platforms
+FAIRARENA MAKES NO REPRESENTATIONS OR WARRANTIES REGARDING THE FUNCTIONALITY, RELIABILITY, SECURITY, OR ABSENCE OF BUGS IN THE SOFTWARE.
 
 YOU ASSUME ALL RISKS ASSOCIATED WITH VIEWING OR ACCESSING THIS REPOSITORY.
 
@@ -147,113 +106,49 @@ YOU ASSUME ALL RISKS ASSOCIATED WITH VIEWING OR ACCESSING THIS REPOSITORY.
 
 ## LIMITATION OF LIABILITY
 
-TO THE MAXIMUM EXTENT PERMITTED BY LAW, FAIRARENA SHALL NOT BE LIABLE FOR ANY:
-- Direct, indirect, incidental, special, or consequential damages
-- Loss of profits, data, business, or revenue
-- Cost of substitute goods or services
-- Claims by third parties
-
-This applies even if FairArena has been advised of the possibility of such damages.
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, FAIRARENA SHALL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, OR CONSEQUENTIAL DAMAGES ARISING FROM YOUR USE OF OR INABILITY TO USE THIS REPOSITORY.
 
 ---
 
 ## ENFORCEMENT AND LEGAL REMEDIES
 
-### Monitoring and Detection
-
-FairArena reserves the right to:
-- Monitor all forks, clones, stars, and downloads of this repository
-- Use automated tools to detect code similarity and unauthorized use
-- Conduct investigations into suspected violations
-- Collaborate with GitHub and other platforms to identify infringers
-
-### Violations
-
-Violation of these terms includes but is not limited to:
-- Maintaining forks beyond the permitted timeframe
-- Using code snippets, patterns, or logic in other projects
-- Deploying competing or similar services
-- Teaching or sharing the codebase without permission
-- Failure to delete copies upon request
-
-### Consequences
-
-Upon discovery of any violation, FairArena may, at its sole discretion and without prior notice:
-
-1. **Immediate Actions:**
-   - Issue cease and desist demands
-   - File DMCA takedown requests with GitHub and other platforms
-   - Permanently ban you from contributing to all FairArena projects
-   - Publicly disclose the violation and violator's identity
-
-2. **Legal Actions:**
-   - Pursue civil litigation for copyright infringement under the Copyright Act, 1957 (India) and international treaties
-   - Seek criminal prosecution where applicable (imprisonment for 6 months to 3 years under Indian law)
-   - Demand injunctive relief (temporary and permanent injunctions)
-   - Claim statutory and actual damages
-   - Recover all legal fees, costs, and expenses
-   - Seek destruction of all infringing copies
-   - Pursue contempt of court proceedings for repeat violations
-
-3. **Financial Remedies:**
-   - Statutory damages up to ₹2,00,000 per infringement (under Indian Copyright Act)
-   - Actual damages and disgorgement of profits
-   - Enhanced damages for willful infringement
-   - Punitive damages where permitted
-
-**FairArena will aggressively pursue all available remedies to the fullest extent of the law.**
+FairArena reserves the right to monitor forks, clones, and uses of this repository and to pursue legal remedies for violations, including but not limited to cease and desist demands, DMCA takedown requests, and litigation.
 
 ---
 
 ## THIRD-PARTY RIGHTS
 
-This license does not grant any rights with respect to third-party services, libraries, or dependencies that may be used by the Software. You are responsible for complying with all third-party licenses independently.
+This license does not grant any rights with respect to third-party services, libraries, or dependencies used by the Software. You are responsible for complying with all third-party licenses independently.
 
 ---
 
 ## GOVERNING LAW AND JURISDICTION
 
-This License Agreement shall be governed by and construed in accordance with the laws of **India**, without regard to conflict of law principles.
-
-Any disputes arising from or relating to this License shall be subject to the **exclusive jurisdiction** of the courts located in **New Delhi, India**.
-
-By accessing this repository, you consent to the personal jurisdiction of these courts and waive any objections to venue.
+This License Agreement shall be governed by and construed in accordance with the laws of **India**, with exclusive jurisdiction in the courts of **New Delhi, India**.
 
 ---
 
 ## SEVERABILITY
 
-If any provision of this License is found to be unenforceable or invalid by a court of competent authority, such provision shall be limited or eliminated to the minimum extent necessary, and the remaining provisions shall remain in full force and effect.
+If any provision of this License is found to be unenforceable, such provision shall be limited or eliminated to the minimum extent necessary, and the remaining provisions shall remain in full force and effect.
 
 ---
 
 ## ENTIRE AGREEMENT
 
-This License constitutes the entire agreement between you and FairArena regarding the Software and supersedes all prior or contemporaneous communications, proposals, or agreements, whether electronic, oral, or written.
+This License constitutes the entire agreement between you and FairArena regarding the Software and supersedes all prior communications.
 
 ---
 
 ## MODIFICATIONS TO LICENSE
 
-FairArena reserves the right to modify, amend, or replace this License at any time without prior notice. Continued access to or use of the repository after modifications constitutes acceptance of the revised terms.
-
-It is your responsibility to review this License periodically.
+FairArena reserves the right to modify this License at any time. Continued access constitutes acceptance of revised terms.
 
 ---
 
-## CONTACT AND CLARIFICATIONS
+## CONTACT
 
-If you are unsure whether your intended use is permitted under these terms, you **MUST**:
-
-1. **Open a GitHub issue** with the subject line: **"LICENSE CLARIFICATION REQUEST"**
-2. Provide detailed description of your intended use
-3. Wait for **explicit written permission** from FairArena before proceeding
-
-**Silence, lack of response, or implicit permission DOES NOT constitute authorization.**
-
-For urgent inquiries or licensing requests, contact:
-**Email:** [fairarena.contact@gmail.com]
-**Website:** [https://fairarena.vercel.app](https://fairarena.vercel.app)
+For licensing inquiries, contact: **Email:** legal@fairarena.app **Website:** [https://fairarena.app]
 
 ---
 
@@ -261,12 +156,12 @@ For urgent inquiries or licensing requests, contact:
 
 **⚠️ UNAUTHORIZED USE IS STRICTLY PROHIBITED AND WILL BE PROSECUTED TO THE FULLEST EXTENT OF THE LAW ⚠️**
 
-By accessing, viewing, or interacting with this repository in any way, you acknowledge that you have read, understood, and agree to be bound by all terms and conditions of this License.
+By accessing this repository, you acknowledge that you have read, understood, and agree to be bound by all terms of this License.
 
-**NO RIGHTS ARE GRANTED. ALL RIGHTS ARE RESERVED.**
+**NO RIGHTS ARE GRANTED BEYOND THOSE EXPLICITLY STATED. ALL OTHER RIGHTS ARE RESERVED.**
 
 ---
 
-**Last Updated:** November 30, 2025
-**Version:** 1.0.0
-**Effective Date:** November 30, 2025
+**Last Updated:** March 3, 2026
+**Version:** 1.1.1
+**Effective Date:** March 3, 2026
